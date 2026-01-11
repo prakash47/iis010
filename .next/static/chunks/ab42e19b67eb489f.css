@@ -1,0 +1,1 @@
+@plugin "daisyui";@theme{--color-brand-primary: #5c7f67;   --color-brand-secondary: #ecf0f1;   --color-brand-accent: #d35400;   --font-display: "Playfair Display",serif; --font-body: "Inter",sans-serif; --spacing-container: 1280px;}@utility container-wrapper{max-width: var(--spacing-container); margin-inline: auto; padding-inline: 1.5rem;}

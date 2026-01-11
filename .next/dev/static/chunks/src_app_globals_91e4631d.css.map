@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Sapt%20Dubey/Documents/GitHub/iis010/src/app/globals.css"],"sourcesContent":["@import \"tailwindcss\";\r\n@plugin \"daisyui\";\r\n\r\n@theme {\r\n    --color-brand-primary: #5c7f67;\r\n    /* Earthy Green */\r\n    --color-brand-secondary: #ecf0f1;\r\n    /* Light Gray/White */\r\n    --color-brand-accent: #d35400;\r\n    /* Burnt Orange for CTA */\r\n\r\n    --font-display: \"Playfair Display\", serif;\r\n    --font-body: \"Inter\", sans-serif;\r\n\r\n    --spacing-container: 1280px;\r\n}\r\n\r\n/* Custom Utilities if needed, but prefer standard utilities */\r\n@utility container-wrapper {\r\n    max-width: var(--spacing-container);\r\n    margin-inline: auto;\r\n    padding-inline: 1.5rem;\r\n}"],"names":[],"mappings":"AACA;;AAEA;;;;AAeA"}}]
+}
