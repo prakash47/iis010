@@ -39,6 +39,54 @@
       "regex": "^/_not\\-found(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/benefits",
+      "regex": "^/benefits(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/benefits(?:/)?$"
+    },
+    {
+      "page": "/buy-now",
+      "regex": "^/buy\\-now(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/buy\\-now(?:/)?$"
+    },
+    {
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/faq",
+      "regex": "^/faq(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/faq(?:/)?$"
+    },
+    {
+      "page": "/ingredients",
+      "regex": "^/ingredients(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/ingredients(?:/)?$"
+    },
+    {
+      "page": "/story",
+      "regex": "^/story(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/story(?:/)?$"
+    },
+    {
+      "page": "/submit-story",
+      "regex": "^/submit\\-story(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/submit\\-story(?:/)?$"
+    },
+    {
+      "page": "/testimonials",
+      "regex": "^/testimonials(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/testimonials(?:/)?$"
     }
   ],
   "dataRoutes": [],

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence, Variants } from "framer-motion";
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 
@@ -17,7 +17,7 @@ export default function Header() {
         }
     }, [isOpen]);
 
-    const menuVariants = {
+    const menuVariants: Variants = {
         closed: {
             opacity: 0,
             x: "100%",
@@ -38,7 +38,7 @@ export default function Header() {
         }
     };
 
-    const linkVariants = {
+    const linkVariants: Variants = {
         closed: { x: 50, opacity: 0 },
         open: (i: number) => ({
             x: 0,

@@ -1,5 +1,13 @@
 {
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
-  "/page": "/"
+  "/benefits/page": "/benefits",
+  "/buy-now/page": "/buy-now",
+  "/contact/page": "/contact",
+  "/faq/page": "/faq",
+  "/ingredients/page": "/ingredients",
+  "/page": "/",
+  "/story/page": "/story",
+  "/submit-story/page": "/submit-story",
+  "/testimonials/page": "/testimonials"
 }
